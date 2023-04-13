@@ -1,3 +1,4 @@
+
 /*Parte do exercício*/ 
 alert("Escreva as suas notas de todos os bimestres!")
 
@@ -8,5 +9,5 @@ let b4 = prompt("quarta média")
 
 resultado.toFixed(2) = (b1 + b2 + b3 + b4) / 4
 
-alert(`essa é a ${mediaTotal}`)
+alert(` esse é o resultado ${resultado}`)
 /*--------------------------------------------------------------------------------*/
