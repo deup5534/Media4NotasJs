@@ -7,7 +7,7 @@ let b2 = prompt("segunda média")
 let b3 = prompt("terceira média")
 let b4 = prompt("quarta média")
 
-resultado.toFixed(2) = (b1 + b2 + b3 + b4) / 4
+resultado = (b1 + b2 + b3 + b4) / 4
 
 alert(` esse é o resultado ${resultado}`)
 /*--------------------------------------------------------------------------------*/
